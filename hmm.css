@@ -1,0 +1,16 @@
+.about-me{
+    display: flex;
+    font-size: 25px;
+}
+
+.menuItem{
+    color: white;
+}
+
+.mainTable {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.au{
+    font-size: 20px;
+}
